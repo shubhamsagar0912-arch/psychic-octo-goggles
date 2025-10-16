@@ -1,0 +1,5 @@
+{
+  "name": "React Native Quiz App",
+  "description": "A quiz-taking application for students, built with React and Tailwind CSS, designed with a native mobile app feel. Features Home, Subjects, and Settings screens.",
+  "requestFramePermissions": []
+}
